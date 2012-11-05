@@ -11,6 +11,7 @@ h1 {
 nav ul {
     float: right;
     margin-right: 100px;
+    list-style-type: none;
 }
 
 nav li {
