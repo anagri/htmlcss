@@ -34,4 +34,6 @@ div.side-bar {
 
 div.main-content {
     clear: both;
+    padding-top: 10px;
+    margin-right: 100px;
 }
