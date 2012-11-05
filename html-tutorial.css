@@ -42,3 +42,8 @@ div.main-content {
     float: left;
     width: 60%;
 }
+
+footer {
+    clear: both;
+    text-align: center;
+}
