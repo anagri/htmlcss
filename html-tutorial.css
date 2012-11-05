@@ -17,3 +17,21 @@ nav li {
     float: left;
     margin-left: 20px;
 }
+
+div.side-bar ul {
+    list-style-type: none;
+}
+
+div.side-bar ul li {
+    margin-top: 10px;
+}
+
+div.side-bar {
+    width: 300px;
+    float: left;
+    height: 100%;
+}
+
+div.main-content {
+    clear: both;
+}
